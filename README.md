@@ -32,7 +32,7 @@
 
 - Using most important **SEO tags** in modern websites.
 - Using SCSS in a bigger project with many classes.
-- Using **rows** and **columns** in Bootstrap
+- Using **rows** and **columns** in Bootstrap.
 - Creating hero-images and sliders of images.
 - Creating cards with Bootstrap Library and style them.
 
