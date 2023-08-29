@@ -15,6 +15,7 @@
 
 ## Description
 
+- **Mobile first strategy used!**
 - Website of a (hypothetical) company called Chimera Dynamics that upgrades cars!
 - Website contains 4 subpages: AboutUs, Services, Projects, Contact.
 - Each subpage contains place for description (because it's hypothetical page, most of the content is filled by **Lorem Ipsum**)
