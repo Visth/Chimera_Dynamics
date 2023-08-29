@@ -20,7 +20,7 @@
 - Each subpage contains place for description (because it's hypothetical page, most of the content is filled by **Lorem Ipsum**)
 - In the Contact subpage, customers can choose the type of thier car they want to upgrade, and also choose what type of tuning are they looking for.
 
-#### Technology used
+#### Technology used:
 - HTML, CSS, JS
 - SCSS
 - **Framework:** Bootstrap
