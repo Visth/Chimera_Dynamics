@@ -1,6 +1,6 @@
 # Chimera Dynamics
 
-### Screenshots
+## Screenshots
 <p align="center">
     <img src="./img/README_images/readme_img_01.png" width="80%" height="400px"></img>
     <br>
@@ -11,7 +11,7 @@
     <img src="./img/README_images/readme_img_04.png" width="80%" height="400px"></img>
 </p>
 
-### Description
+## Description
 
 - Website of a (hypothetical) company called Chimera Dynamics that upgrades cars!
 - Website contains 4 subpages: AboutUs, Services, Projects, Contact.
