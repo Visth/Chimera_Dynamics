@@ -40,6 +40,7 @@
 ## Author info
 
 - **Name:** Filip Bereszyński
+- **Age:** 21 years old
 - **Contact:**
     - bereszynski.filip@gmail.com
     - (+48) 510 240 074
