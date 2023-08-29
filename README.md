@@ -24,3 +24,22 @@
 - HTML, CSS, JS
 - SCSS
 - **Framework:** Bootstrap
+
+<hr/>
+
+## What I Learned
+
+- Using most important **SEO tags** in modern websites.
+- Using SCSS in a bigger project with many classes.
+- Using **rows** and **columns** in Bootstrap
+- Creating hero-images and sliders of images.
+- Creating cards with Bootstrap Library and style them.
+
+<hr/>
+
+## Author info
+
+- **Name:** Filip Bereszyński
+- **Contact:**
+    - bereszynski.filip@gmail.com
+    - (+48) 510 240 074
